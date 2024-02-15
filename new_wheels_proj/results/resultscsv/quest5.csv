@@ -1,0 +1,50 @@
+state,vehicle_maker,rank_no
+Florida,Audi,1
+"New York",Bentley,2
+Wyoming,Buick,3
+Pennsylvania,Cadillac,4
+Idaho,Chevrolet,5
+Alaska,Chevrolet,5
+Delaware,Chevrolet,5
+Connecticut,Citro�n,8
+"South Carolina",Dodge,9
+Mississippi,Dodge,9
+"New Mexico",Dodge,9
+Minnesota,Dodge,9
+Iowa,Dodge,9
+"West Virginia",Eagle,14
+"North Dakota",Ford,15
+Michigan,Ford,15
+Colorado,Isuzu,17
+California,Jaguar,18
+Ohio,Kia,19
+Indiana,Kia,19
+Louisiana,Kia,19
+"New Jersey","Land Rover",22
+"New Hampshire",Lexus,23
+Oregon,Lexus,23
+"District of Columbia",Lincoln,25
+Kansas,Maserati,26
+Washington,Maserati,26
+Utah,Maybach,28
+Vermont,Mazda,29
+Georgia,Mercedes-Benz,30
+Maine,Mercedes-Benz,30
+Kentucky,Mercury,32
+Maryland,Mitsubishi,33
+Virginia,Mitsubishi,33
+Montana,Mitsubishi,33
+Wisconsin,Nissan,36
+Nevada,Pontiac,37
+Missouri,Pontiac,37
+Texas,Pontiac,37
+Hawaii,Pontiac,37
+Massachusetts,Subaru,41
+Arkansas,Suzuki,42
+Tennessee,Toyota,43
+"North Carolina",Toyota,43
+Oklahoma,Toyota,43
+Nebraska,Toyota,43
+Illinois,Volkswagen,47
+Alabama,Volkswagen,47
+Arizona,Volvo,49

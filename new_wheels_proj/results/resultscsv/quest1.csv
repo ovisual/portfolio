@@ -1,0 +1,50 @@
+state,number_of_customers
+Vermont,1
+Wyoming,1
+Maine,1
+Mississippi,2
+"North Dakota",2
+Montana,3
+"New Hampshire",3
+"New Mexico",5
+Hawaii,6
+Arkansas,6
+Delaware,6
+Idaho,7
+Nebraska,7
+Oregon,7
+Kentucky,8
+Wisconsin,8
+"New Jersey",9
+"South Carolina",9
+Alaska,10
+Utah,10
+"West Virginia",10
+Iowa,11
+Kansas,13
+Massachusetts,14
+Maryland,15
+Oklahoma,16
+Nevada,17
+Michigan,17
+Minnesota,17
+Georgia,19
+Louisiana,20
+"North Carolina",20
+Connecticut,22
+Indiana,23
+Tennessee,23
+Missouri,23
+Virginia,24
+Pennsylvania,25
+Illinois,25
+Arizona,26
+Washington,28
+Alabama,30
+Colorado,33
+Ohio,33
+"District of Columbia",35
+"New York",69
+Florida,86
+California,97
+Texas,98

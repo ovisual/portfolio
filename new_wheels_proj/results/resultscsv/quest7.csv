@@ -1,0 +1,5 @@
+quarter_number,revenue,previous_quarter_revenue,QoQ_revenue(%)
+1,21605075,NULL,NULL
+2,19790741,21605075,-8.4
+3,20553129,19790741,3.9
+4,14922858,20553129,-27.4
